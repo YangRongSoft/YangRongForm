@@ -13,7 +13,7 @@
 # limitations under the License.
 
 homepage: "https://github.com/YangRongSoft"
-documentation: "https://gtm.yangrongcrm.com/docs"
+documentation: "https://yangrongsoft.github.io/GTM-Tag-Template-For-Form/"
 versions:
   - sha: 25d38b85d8fa419d9618b8670f1d6b8737a0f793
     changeNotes: Initial Version
