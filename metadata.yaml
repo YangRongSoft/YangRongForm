@@ -15,5 +15,5 @@
 homepage: "https://github.com/YangRongSoft"
 documentation: "https://yangrongsoft.github.io/GTM-Tag-Template-For-Form/"
 versions:
-  - sha: 25d38b85d8fa419d9618b8670f1d6b8737a0f793
-    changeNotes: Initial Version
+  - sha: eedb714cf299064c5005c849c2dbf7d88eb2e43a
+    changeNotes: Add icon and category
