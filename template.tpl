@@ -14,6 +14,7 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "YangRong Form",
+  "categories": ["LEAD_GENERATION"],
   "brand": {
     "id": "brand_dummy",
     "displayName": "",
@@ -136,6 +137,6 @@ setup: ''
 
 ___NOTES___
 
-Created on 1/12/2021, 5:12:13 PM
+Created on 1/12/2021, 5:17:48 PM
 
 
