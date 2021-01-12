@@ -15,5 +15,5 @@
 homepage: "https://github.com/YangRongSoft"
 documentation: "https://gtm.yangrongcrm.com/docs"
 versions:
-  - sha: 5f02a788b90ae804f86b04aa24af8937e567874a
+  - sha: 25d38b85d8fa419d9618b8670f1d6b8737a0f793
     changeNotes: Initial Version
